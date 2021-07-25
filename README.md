@@ -1,10 +1,7 @@
-<h1 align="center">
-    <img alt="Github Explorer" title="#GithubExplorer" src=".github/logo.png" width="250px" />
-</h1>
 
-<h4 align="center">
+<h3 align="center">
 	🕵🏻‍♂️ Github Explorer 🔎
-</h4>
+</h3>
 <p align="center">
 
   <img alt="language version" src="https://img.shields.io/badge/Node-v_12.16.2-339933?logo=node.js">
@@ -43,6 +40,7 @@
 ```diff
 ! em desenvolvimento!
 ```
+
 
 <br>
 
