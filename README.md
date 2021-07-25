@@ -4,10 +4,7 @@
 </h3>
 <p align="center">
 
- <a href="https://app.codacy.com/manual/yuriduarte/github-explorer?utm_source=github.com&utm_medium=referral&utm_content=yuriduarte/github-explorer&utm_campaign=Badge_Grade_Dashboard">
-    <img src="https://api.codacy.com/project/badge/Grade/cdeaa970e74243a0bd902779f39e3200"/></a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+ <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
 
 </p>
